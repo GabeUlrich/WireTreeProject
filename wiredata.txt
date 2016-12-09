@@ -1,0 +1,5 @@
+1, aluminum, Pliers, 15, 4
+2, galvanized steel, cutters, 10, 7
+3, colored aluminum, clamp, 15, 3
+4, aluminum, clamp, 20, 6
+5, colored aluminum, pliers, 13, 2
